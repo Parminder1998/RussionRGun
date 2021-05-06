@@ -1,0 +1,10 @@
+C:\Users\atind\source\repos\RUSSIONRGun\obj\Debug\RUSSIONRGun.csprojAssemblyReference.cache
+C:\Users\atind\source\repos\RUSSIONRGun\obj\Debug\RUSSIONRGun.Form1.resources
+C:\Users\atind\source\repos\RUSSIONRGun\obj\Debug\RUSSIONRGun.Properties.Resources.resources
+C:\Users\atind\source\repos\RUSSIONRGun\obj\Debug\RUSSIONRGun.csproj.GenerateResource.cache
+C:\Users\atind\source\repos\RUSSIONRGun\obj\Debug\RUSSIONRGun.csproj.CoreCompileInputs.cache
+C:\Users\atind\source\repos\RUSSIONRGun\bin\Debug\RUSSIONRGun.exe.config
+C:\Users\atind\source\repos\RUSSIONRGun\bin\Debug\RUSSIONRGun.exe
+C:\Users\atind\source\repos\RUSSIONRGun\bin\Debug\RUSSIONRGun.pdb
+C:\Users\atind\source\repos\RUSSIONRGun\obj\Debug\RUSSIONRGun.exe
+C:\Users\atind\source\repos\RUSSIONRGun\obj\Debug\RUSSIONRGun.pdb
